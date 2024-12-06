@@ -1,4 +1,4 @@
-# 🌟 GitHub Tutorial for Beginners
+# 🌟 GitHub Tutorial
 
 Welcome to the **GitHub Tutorial Repository**! This guide is designed for beginners to learn the basics of Git and GitHub. By following this step-by-step tutorial, you'll understand how to create repositories, commit changes, work with branches, and collaborate effectively. 🚀
 
